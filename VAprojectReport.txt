@@ -1,0 +1,4 @@
+We are working with .jpg images from the FIGRIM (Fine grained image memorability) dataset. It was published in the "Intrinsic and extrinsic effects on image memorability" article from 2015, and contains 9428 images. The images span 21 scene categories from the SUN database. 
+Each scene category was chosen to contain at least 300 images of size 700x700 or greater.
+Limitations and challenges of working with this dataset:
+The dataset's focus on specific scene categories introduces limitations in terms of generalizability to images outside of these categories. Models trained on such biased data may not perform well on diverse scenes.
